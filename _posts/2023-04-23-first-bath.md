@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'First bath'
+title: "First bath"
 date: 2023-04-23 05:46:09 +0530
-categories: jekyll update
+categories: milestone
 ---
 
-Today you had your first bath.
+Todo: Today you had your first bath.
