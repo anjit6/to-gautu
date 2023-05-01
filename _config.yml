@@ -21,20 +21,20 @@
 title: To Gautu
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Letter to Gautu kanna.
-baseurl: '/to-gautu' # the subpath of your site, e.g. /blog
-url: 'https://anjit6.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+  Letter to Gautu kanna.
+baseurl: "/to-gautu" # the subpath of your site, e.g. /blog
+url: "https://anjit6.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
 
 # Build settings
 theme: minima
 plugins:
-    - jekyll-feed
+  - jekyll-feed
 
 # Quite Saas warnings
 sass:
-    quiet_warnings: true
+  quiet_warnings: true
 # verbose: true
 # Exclude from processing.
 # The following items will not be processed, by default.
